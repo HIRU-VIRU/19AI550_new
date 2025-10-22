@@ -38,7 +38,10 @@ To design and develop a simple 3D Maze Game using Unity where the player navigat
 ***
 
 ### PROGRAM:
-
+```
+### Name: HIRUTHIK SUDHAKAR
+### Reg No: 212223240054
+```
 #### 1. PlayerController.cs
 
 ```csharp
